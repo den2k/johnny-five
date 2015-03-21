@@ -4,7 +4,6 @@
     "classes": ["Board"],
     "files": [
       "board.js",
-      "board-with-port.js",
       "board-multi.js",
       "repl.js",
       "pin.js"
@@ -16,7 +15,6 @@
     "files": [
       "led.js",
       "led-PCA9685.js",
-      "led-anode.js",
       "led-blink.js",
       "led-pulse.js",
       "led-fade.js",
@@ -119,7 +117,8 @@
     "classes": ["ShiftRegister"],
     "files": [
       "shift-register.js",
-      "shift-register-seven-segment.js"
+      "shift-register-seven-segment.js",
+      "shift-register-daisy-chain.js"
     ]
   },
   {
